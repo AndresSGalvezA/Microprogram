@@ -1,4 +1,4 @@
-# Hola mundo
+# Laboratorio 1
 ## Construido con
 * Turbo assembler (TASM - TLINK)
 * Notepad++
