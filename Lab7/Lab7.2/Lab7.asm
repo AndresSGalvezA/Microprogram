@@ -25,6 +25,6 @@ Program:
 	print chr$(".", 13, 10)
 	print chr$("Bienvenido a la carrera de ")
 	INVOKE StdOut, ADDR InputCar
-	print chr$(".")
+	print chr$(".") 
     INVOKE ExitProcess, 0
 END Program
