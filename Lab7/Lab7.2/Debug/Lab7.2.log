@@ -1,0 +1,3 @@
+﻿  Assembling Lab7.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Lab7.2.vcxproj -> C:\Users\asgas\Desktop\Lab7.2\Debug\Lab7.2.exe
