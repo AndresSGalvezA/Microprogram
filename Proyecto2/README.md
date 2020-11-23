@@ -1,4 +1,4 @@
-# Proyecto práctico 1
+# Proyecto práctico 2
 # Cifrado y descifrado usando matrices
 ## Construido con
 * Macro assembler (MASM)
